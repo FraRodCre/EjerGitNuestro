@@ -138,9 +138,9 @@ Los comandos utlizados en el paso 28, *Descartar los cambios*, han sido:
 
 ```git
 $ git reflog
-$ git reset --hard 8cf9752      d3235f1
+$ git reset --hard d3235f1
 ```
-Donde, *8cf9752     d3235f1*, es el hash correspondiente al checkout(desplazamiento) de master a title.
+Donde, *d3235f1*, es el hash correspondiente al checkout(desplazamiento) de master a title.
 
 ---
 
